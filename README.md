@@ -8,6 +8,9 @@ Welcome to the Developer Portfolio Template! This open-source project provides a
 - Time-saving: Spend less time on design and more time on coding.
 - Watermark: Please note that while you're free to modify the website to suit your needs, the watermark must remain intact.
 
+## Overview
+![image](https://github.com/Zyleree/Portfolio-Open-Source-/assets/153359889/bc4a834e-b19a-434a-8b3b-ea2f650af321)
+
 ## Usage
 1. Clone this repository to your local machine.
 3. Customize the template by modifying the HTML and CSS files. Refer to the comments for guidance.
